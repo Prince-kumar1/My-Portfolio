@@ -1,7 +1,5 @@
 {
-  "name": "beautiful-portfolio",
-  "homepage": "https://machadop1407.github.io/pedrotech-portfolio",
-  "private": true,
+  "name": "My-portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
